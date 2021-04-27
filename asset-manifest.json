@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/dailytasks-reminder/static/css/main.653640ee.chunk.css",
-    "main.js": "/dailytasks-reminder/static/js/main.dd30b7c5.chunk.js",
-    "main.js.map": "/dailytasks-reminder/static/js/main.dd30b7c5.chunk.js.map",
+    "main.js": "/dailytasks-reminder/static/js/main.728dec80.chunk.js",
+    "main.js.map": "/dailytasks-reminder/static/js/main.728dec80.chunk.js.map",
     "runtime-main.js": "/dailytasks-reminder/static/js/runtime-main.8ed25c5a.js",
     "runtime-main.js.map": "/dailytasks-reminder/static/js/runtime-main.8ed25c5a.js.map",
-    "static/js/2.5bfbcd6b.chunk.js": "/dailytasks-reminder/static/js/2.5bfbcd6b.chunk.js",
-    "static/js/2.5bfbcd6b.chunk.js.map": "/dailytasks-reminder/static/js/2.5bfbcd6b.chunk.js.map",
+    "static/js/2.a068df64.chunk.js": "/dailytasks-reminder/static/js/2.a068df64.chunk.js",
+    "static/js/2.a068df64.chunk.js.map": "/dailytasks-reminder/static/js/2.a068df64.chunk.js.map",
     "index.html": "/dailytasks-reminder/index.html",
     "static/css/main.653640ee.chunk.css.map": "/dailytasks-reminder/static/css/main.653640ee.chunk.css.map",
-    "static/js/2.5bfbcd6b.chunk.js.LICENSE.txt": "/dailytasks-reminder/static/js/2.5bfbcd6b.chunk.js.LICENSE.txt"
+    "static/js/2.a068df64.chunk.js.LICENSE.txt": "/dailytasks-reminder/static/js/2.a068df64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8ed25c5a.js",
-    "static/js/2.5bfbcd6b.chunk.js",
+    "static/js/2.a068df64.chunk.js",
     "static/css/main.653640ee.chunk.css",
-    "static/js/main.dd30b7c5.chunk.js"
+    "static/js/main.728dec80.chunk.js"
   ]
 }
