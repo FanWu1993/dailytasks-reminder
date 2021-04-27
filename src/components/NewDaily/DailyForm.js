@@ -58,6 +58,9 @@ const DailyForm = (props) => {
                 </div> */}
             </div>
             <div className='new-daily__actions'>
+                <button type='button' onClick={props.onCancel}>
+                    取消
+                </button>
                 <button type='submit'>添加日常</button>
             </div>
         </form>

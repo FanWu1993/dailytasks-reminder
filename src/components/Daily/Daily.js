@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import Card from '../UI/Card';
 import './Daily.css';
+import DailyChart from './DailyChart';
 import DailyFilter from './DailyFilter';
-import DailyTask from './DailyTask';
+import DailyList from './DailyList';
 
 const Daily = (props) => {
     const [filteredLocation, setFilteredLocation] = useState('所有地图');
@@ -37,12 +38,9 @@ const Daily = (props) => {
     return (
         <div>
             <Card className='daily'>
-                <DailyFilter locations={locations} selected={filtered} onChangeFilter={filterChangeHandler}></DailyFilter>
-                {filteredDailyTasks
-                    // .filter((daily) => (daily.location = filteredLocation))
-                    .map((daily) => (
-                        <DailyTask key={daily.id} location={daily.location} task={daily.task} done={daily.done} />
-                    ))}
+                <DailyFilter locations={locations} selected={filtered} onChangeFilter={filterChangeHandler} />
+                <DailyChart dailyTasks={filteredDailyTasks} />
+                <DailyList items={filteredDailyTasks} onDeleteDaily={props.onDeleteDaily} onDoneDaily={props.onDoneDaily} />
             </Card>
         </div>
     );

@@ -1,0 +1,9 @@
+.daily-list {
+    list-style: none;
+    padding: 0;
+}
+
+.daily-list__fallback {
+    color: white;
+    text-align: center;
+}
