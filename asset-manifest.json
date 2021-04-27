@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dailytasks-reminder/static/css/main.653640ee.chunk.css",
-    "main.js": "/dailytasks-reminder/static/js/main.26cfcd50.chunk.js",
-    "main.js.map": "/dailytasks-reminder/static/js/main.26cfcd50.chunk.js.map",
+    "main.js": "/dailytasks-reminder/static/js/main.dd30b7c5.chunk.js",
+    "main.js.map": "/dailytasks-reminder/static/js/main.dd30b7c5.chunk.js.map",
     "runtime-main.js": "/dailytasks-reminder/static/js/runtime-main.8ed25c5a.js",
     "runtime-main.js.map": "/dailytasks-reminder/static/js/runtime-main.8ed25c5a.js.map",
     "static/js/2.5bfbcd6b.chunk.js": "/dailytasks-reminder/static/js/2.5bfbcd6b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8ed25c5a.js",
     "static/js/2.5bfbcd6b.chunk.js",
     "static/css/main.653640ee.chunk.css",
-    "static/js/main.26cfcd50.chunk.js"
+    "static/js/main.dd30b7c5.chunk.js"
   ]
 }
